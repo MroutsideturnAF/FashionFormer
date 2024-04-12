@@ -1,6 +1,7 @@
 # FashionFormer Output Explanation
 
 ![sample image](figs/sample_image.png?raw=true) 
+
 *sample image*
 
 
