@@ -1,5 +1,8 @@
 # FashionFormer Output Explanation
 
+![Alt text](figs/sample_image.png?raw=true) 
+
+
 The result data structure is organized as a tuple containing three lists.
 
 ## First Item: Garment Detection Information
