@@ -2,8 +2,6 @@
 
 ![sample image](figs/sample_image.png?raw=true) 
 
-*sample image*
-
 
 The result data structure is organized as a tuple containing three lists.
 
